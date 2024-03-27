@@ -1,3 +1,30 @@
-# Climate-Data-Processing
+# Climate Data Processing
 
-## Check
+## Overview
+
+This repository contains the code and resources developed along with the University of Toronto Climate Research Department. The project aimed to address climate change-related challenges using statistical downscaling techniques and quantile mapping. The team worked on the challenges faced in Toronto Heat Vulnerability.
+
+## Team Members
+
+- Mevan Solanga
+- Samudra Perera
+- Asli Bese
+- Peter Angelinos
+
+## Project Description
+
+Estimating where to place cooling stations in Toronto based on summertime hot days(number of days where Tmax > 30 °C) in the future (2071-2100) under SSP5-8.5 using downscaled CanESM5 data
+
+## Contents
+
+- `climate-data/`: Contains maximum temperature and vapor pressure from the Daymet dataset along with compiled data.
+- `flowcharts/`: Visual respresentation of.
+- `main-analysis/`: Includes all code files and notebooks developed, visualizations, and any other relevant results.
+- `test/`: Intial analysis trials.
+- `toronto-shape-models/`: Contains the the overlayed toronto shape files.
+- `README.md`: This file.
+
+## Acknowledgments
+
+[Documentation](https://utcdw.physics.utoronto.ca/UTCDW_Guidebook/README.html)
+[UTCDW](https://utcdw.physics.utoronto.ca/)
