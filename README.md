@@ -18,7 +18,7 @@ Estimating where to place cooling stations in Toronto based on summertime hot da
 ## Results
 ![image](https://github.com/Mevan-Solanga/Climate-Data-Processing/assets/118385727/ec32d472-daca-4b9e-a114-1fe96bd364a6)
 ![image](https://github.com/Mevan-Solanga/Climate-Data-Processing/assets/118385727/b4491dc9-1f58-4120-b4ca-67d3bf8521d2)
-![image](https://github.com/Mevan-Solanga/Climate-Data-Processing/assets/118385727/ec7828d6-281a-4838-9564-ae9d79f7b853)
+![image](https://github.com/Mevan-Solanga/Climate-Data-Processing/assets/118385727/b1fcb5cb-4e68-4157-8d2d-8dc8a7ea082e)
 ![image](https://github.com/Mevan-Solanga/Climate-Data-Processing/assets/118385727/e72e3dd7-e9a8-494c-9881-3329cec4e65e)
 
 
