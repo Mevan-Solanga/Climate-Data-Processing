@@ -11,9 +11,13 @@ This repository contains the code and resources developed along with the Univers
 - Asli Bese
 - Peter Angelinos
 
-## Project Description
+## Problem Statement
 
 Estimating where to place cooling stations in Toronto based on summertime hot days(number of days where Tmax > 30 °C) in the future (2071-2100) under SSP5-8.5 using downscaled CanESM5 data
+
+## Results
+![image](https://github.com/Mevan-Solanga/Climate-Data-Processing/assets/118385727/b4491dc9-1f58-4120-b4ca-67d3bf8521d2)
+
 
 ## Contents
 
