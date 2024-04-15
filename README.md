@@ -26,6 +26,7 @@ Estimating where to place cooling stations in Toronto based on summertime hot da
                 <h3>Projected Heatmap with Cooling Centers Overlaid<h3/>
 <img src="https://github.com/Mevan-Solanga/Climate-Data-Processing/assets/118385727/e72e3dd7-e9a8-494c-9881-3329cec4e65e" width=50%>
 </div>
+Based on the findings from our data exploration and analysis, we chose to place cooling centers where there were no existing solutions, and that overlaid with low socio-economic areas. For our solution, we identified key locations owned by the City of Toronto that would be converted to makeshift cooling centers in these high risk areas. 
 
 
 ## Contents
